@@ -1,0 +1,15 @@
+/* tablet */
+@media only screen and (min-width: 375px) {
+}
+
+/* laptop */
+@media only screen and (min-width: 800px) {
+    .card {
+        width: 384px !important;
+        height: 522px !important;
+    }
+}
+
+/* desktop */
+@media only screen and (min-width: 1440px) {
+}

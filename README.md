@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card
 
-![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Blog preview card coding challenge](assets/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 

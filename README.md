@@ -1,7 +1,7 @@
 # Frontend Mentor - Blog preview card
 
 ![Design preview for the Blog preview card coding challenge](assets/design/desktop-preview.jpg)
-
+[Online Preview](https://pouyasdz.github.io/preview-card/)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
